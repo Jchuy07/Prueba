@@ -9,7 +9,7 @@ int contarArchivosDeDirectorio();
 void listarArchivosDeDirectorio();
 void mostrarDetalles();
 
-
+cout << "Ingrese el numero de archivos" << endl;
 
 int main()
 {
