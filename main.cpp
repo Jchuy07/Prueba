@@ -33,7 +33,7 @@ int main()
     mostrarDetalles();
     return 0;
 }
-
+cout << "Ingrese el numero de archivos" << endl;
 void crearArchivos(int cantidad, int personas, int dias ) {
     string nombreArchivo = "archivo";
 
